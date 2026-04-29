@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dlewis8405-a11y.github.io/website-project/sitemap.xml
